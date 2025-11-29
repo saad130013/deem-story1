@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SavedLessonsList: React.FC = () => {
+export const SavedLessonsList: React.FC = () => {
   return (
     <div style={{ padding: '1rem' }}>
       <h2>Saved Lessons</h2>
