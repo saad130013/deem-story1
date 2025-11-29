@@ -1,6 +1,6 @@
 import React from 'react';
 
-const QuizView: React.FC = () => {
+export const QuizView: React.FC = () => {
   return (
     <div style={{ padding: '1rem' }}>
       <h2>Quiz View</h2>
